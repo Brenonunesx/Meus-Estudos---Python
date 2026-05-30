@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu repositório de aprendizado! Este espaço foi criado para ce
 ## 🎯 Objetivos do Repositório
 * Praticar a sintaxe e os conceitos da linguagem Python.
 * Desenvolver e aprimorar o raciocínio lógico e a eficiência de algoritmos.
-* Documentar a minha evolução na programação e ciência de dados.
+* Documentar a minha evolução na programação na minha carreira em ciência de dados.
 * Manter um histórico organizado de atividades práticas.
 
 ## 📂 Estrutura do Repositório
@@ -22,4 +22,4 @@ O projeto está organizado da seguinte forma:
 * **Ambiente de Desenvolvimento:** VS Code.
 
 ---
-*Estudando e evoluindo um commit de cada vez!* 🚀
+*Estudando e evoluindo um commit de cada vez!* 
