@@ -17,7 +17,7 @@ organizei as pastas dessa forma aqui:
 - `atividades/`: Scripts,codigos e algoritmos feitos no horario academico.
 - `desafios/`: Algoritmos mais complexos e codigos um pouco mais longos.
 
-##  Tecnologias e Ferramentas
+##Tecnologias e Ferramentas
 - **Linguagem:** Python 3.x
 - **Ambiente de Desenvolvimento:** VS Code.
 
